@@ -6,7 +6,7 @@ LIC_FILES_CHKSUM = "file://core/rtw_ap.c;beginline=3;endline=12;md5=488c90996933
 inherit module
 
 SRCREV = "ae46fc7e9b6ff65a194cee7c6f50398e5f99fdd4"
-SRC_URI = "git://github.com/NextThingCo/RTL8723BS;protocol=https;branch=master \
+SRC_URI = "git://github.com/chip-community/RTL8723BS;protocol=https;branch=master \
            file://0001-rtl8723bs-add-modules_install-and-correct-depmod.patch \
            file://0001-rtl8723bs-Disable-CONFIG_DEBUG.patch \
            file://0001-rtl8723bs-Remove-debug-prints.patch \
